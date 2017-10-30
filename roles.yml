@@ -1,0 +1,11 @@
+---
+- src: geerlingguy.docker
+- src: franklinkim.mongodb
+- src: DavidWittman.redis
+- src: softasap.sa-neo4j
+- src: cmprescott.chrome
+- src: jdauphant.sublimetext
+- src: gantsign.atom
+- src: dpalomar.sts
+- src: geerlingguy.mysql
+- src: gantsign.maven
