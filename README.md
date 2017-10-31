@@ -1,6 +1,7 @@
-# Install "git", "curl", "wget", "nodejs", "Sublime Text", "Chrome" and STS
+# Install "git", "curl", "wget", "nodejs", "Sublime Text", "Chrome", "Maven", "JAVA8" and "STS"
 
-Fro terminal....
+From terminal....
+
 ```sudo apt-get update```
 Here if you are seeing any Errors, then run below command to Upgrade. If no Erros then directly Run the last command.
 
