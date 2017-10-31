@@ -14,5 +14,5 @@ apt-get install -y nodejs
 #apt-get install -y redis-server
 #apt-get install -y mysql-workbench
 ansible-galaxy install -r roles.yml -p roles
-ansible-playbook dev_env-setup.yml
+ansible-playbook dev-setup.yml
 
