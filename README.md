@@ -7,5 +7,5 @@ Here if you are seeing any Errors, then run below command to Upgrade. If no Erro
 
 ```sudo apt-get upgrade```
 
-Then run ```sudo ./dev_env-setup.sh```
+Then run ```sudo ./dev-setup.sh```
 
