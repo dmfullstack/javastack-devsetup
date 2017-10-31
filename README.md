@@ -11,6 +11,7 @@ If any errors like /var/lib/dpkg/lock.... remove lock file...
 Then again...
 
 ```sudo apt-get update```  
+
 Here if you are seeing any Errors, then run below command to Upgrade. If no Erros then directly Run the last command.
 
 ```sudo apt-get upgrade```
