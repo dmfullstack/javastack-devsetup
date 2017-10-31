@@ -12,7 +12,7 @@ Then again...
 
 ```sudo apt-get update```  
 
-Here if you are seeing any Errors, then run below command to Upgrade. If no Erros then directly Run the last command.
+Here if you are seeing any Errors, then run below command to Upgrade. If no Erros then directly Run the last command (i.e ```sudo ./dev-setup.sh```).
 
 ```sudo apt-get upgrade```
 
