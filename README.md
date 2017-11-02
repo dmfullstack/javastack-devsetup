@@ -16,7 +16,7 @@ Here if you are seeing any Errors, then run below command to Upgrade. If no Erro
 
 ```sudo apt-get upgrade```
 
-```cd javastack-devsetup```
+```cd javastack-devsetup-master``` 
 
 Then run ```sudo ./dev-setup.sh```
 
