@@ -25,9 +25,11 @@
   roles:
 #    - geerlingguy.mysql
     - dpalomar.sts
+    - cmprescott.chrome
     - geerlingguy.docker
     - Stouts.mongodb
 #    - softasap.sa-neo4j
     - jdauphant.sublimetext
 #    - cmprescott.chrome
     - gantsign.maven
+    - gantsign.atom
