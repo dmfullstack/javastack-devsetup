@@ -17,11 +17,16 @@
     - name: Install Google Chrome
       apt:
         deb: ./google-chrome-stable_current_amd64.deb  
+  vars:
+   - sublimetext_build:  3143
+   - docker_version: 17.09.1
+   - docker-compose_version: 1.18.0
+
   roles:
 #    - geerlingguy.mysql
     - dpalomar.sts
-#    - geerlingguy.docker
-#    - franklinkim.mongodb
+    - geerlingguy.docker
+    - Stouts.mongodb
 #    - softasap.sa-neo4j
     - jdauphant.sublimetext
 #    - cmprescott.chrome
