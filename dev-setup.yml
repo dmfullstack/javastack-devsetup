@@ -6,8 +6,8 @@
       apt:
         name: "{{item}}"
       with_items:
-#        - mysql-workbench 
-#        - redis-server
+        - mysql-workbench 
+        - redis-server
         - openjdk-8-jdk
     
     - name: Download Google Chrome deb
@@ -23,7 +23,7 @@
    - docker-compose_version: 1.18.0
 
   roles:
-#    - geerlingguy.mysql
+    - geerlingguy.mysql
     - dpalomar.sts
     - cmprescott.chrome
     - geerlingguy.docker
